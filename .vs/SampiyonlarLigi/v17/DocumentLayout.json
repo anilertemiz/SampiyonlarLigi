@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anile\\source\\repos\\SampiyonlarLigi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56FB93E8-8899-4B78-A96D-982314390AA6}|SampiyonlarLigi\\SampiyonlarLigi.csproj|c:\\users\\anile\\source\\repos\\sampiyonlarligi\\sampiyonlarligi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56FB93E8-8899-4B78-A96D-982314390AA6}|SampiyonlarLigi\\SampiyonlarLigi.csproj|solutionrelative:sampiyonlarligi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FB93E8-8899-4B78-A96D-982314390AA6}|SampiyonlarLigi\\SampiyonlarLigi.csproj|c:\\users\\anile\\source\\repos\\sampiyonlarligi\\sampiyonlarligi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FB93E8-8899-4B78-A96D-982314390AA6}|SampiyonlarLigi\\SampiyonlarLigi.csproj|solutionrelative:sampiyonlarligi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FB93E8-8899-4B78-A96D-982314390AA6}|SampiyonlarLigi\\SampiyonlarLigi.csproj|c:\\users\\anile\\source\\repos\\sampiyonlarligi\\sampiyonlarligi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FB93E8-8899-4B78-A96D-982314390AA6}|SampiyonlarLigi\\SampiyonlarLigi.csproj|solutionrelative:sampiyonlarligi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FB93E8-8899-4B78-A96D-982314390AA6}|SampiyonlarLigi\\SampiyonlarLigi.csproj|c:\\users\\anile\\source\\repos\\sampiyonlarligi\\sampiyonlarligi\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FB93E8-8899-4B78-A96D-982314390AA6}|SampiyonlarLigi\\SampiyonlarLigi.csproj|solutionrelative:sampiyonlarligi\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FB93E8-8899-4B78-A96D-982314390AA6}|SampiyonlarLigi\\SampiyonlarLigi.csproj|C:\\Users\\anile\\source\\repos\\SampiyonlarLigi\\sampiyonlarligi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56FB93E8-8899-4B78-A96D-982314390AA6}|SampiyonlarLigi\\SampiyonlarLigi.csproj|solutionrelative:sampiyonlarligi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 296,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\anile\\source\\repos\\SampiyonlarLigi\\SampiyonlarLigi\\Form1.cs",
+              "RelativeDocumentMoniker": "SampiyonlarLigi\\Form1.cs",
+              "ToolTip": "C:\\Users\\anile\\source\\repos\\SampiyonlarLigi\\SampiyonlarLigi\\Form1.cs",
+              "RelativeToolTip": "SampiyonlarLigi\\Form1.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAqwIwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:01:53.731Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\anile\\source\\repos\\SampiyonlarLigi\\SampiyonlarLigi\\Form2.cs",
+              "RelativeDocumentMoniker": "SampiyonlarLigi\\Form2.cs",
+              "ToolTip": "C:\\Users\\anile\\source\\repos\\SampiyonlarLigi\\SampiyonlarLigi\\Form2.cs",
+              "RelativeToolTip": "SampiyonlarLigi\\Form2.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAGYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T06:17:01.165Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\anile\\source\\repos\\SampiyonlarLigi\\SampiyonlarLigi\\Team.cs",
+              "RelativeDocumentMoniker": "SampiyonlarLigi\\Team.cs",
+              "ToolTip": "C:\\Users\\anile\\source\\repos\\SampiyonlarLigi\\SampiyonlarLigi\\Team.cs",
+              "RelativeToolTip": "SampiyonlarLigi\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:15:53.975Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\anile\\source\\repos\\SampiyonlarLigi\\SampiyonlarLigi\\Form1.cs",
+              "RelativeDocumentMoniker": "SampiyonlarLigi\\Form1.cs",
+              "ToolTip": "C:\\Users\\anile\\source\\repos\\SampiyonlarLigi\\SampiyonlarLigi\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "SampiyonlarLigi\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:12:22.167Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\anile\\source\\repos\\SampiyonlarLigi\\SampiyonlarLigi\\Form2.cs",
+              "RelativeDocumentMoniker": "SampiyonlarLigi\\Form2.cs",
+              "ToolTip": "C:\\Users\\anile\\source\\repos\\SampiyonlarLigi\\SampiyonlarLigi\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "SampiyonlarLigi\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:56:41.666Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 99,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 104,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
